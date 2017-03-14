@@ -11,3 +11,7 @@ C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project S
 C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.pdb
 C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Ansatt.resources
 C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Blodgiver.resources
+C:\Users\Gaute\Documents\Visual Studio 2015\Projects\Vitality\Vitality Project Second Draft\Vitality Project Second Draft\bin\Debug\Vitality Project Second Draft.exe.config
+C:\Users\Gaute\Documents\Visual Studio 2015\Projects\Vitality\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.exe
+C:\Users\Gaute\Documents\Visual Studio 2015\Projects\Vitality\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.xml
+C:\Users\Gaute\Documents\Visual Studio 2015\Projects\Vitality\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.pdb

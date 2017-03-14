@@ -26,18 +26,18 @@ Partial Class Blodgiver
         Me.Label29 = New System.Windows.Forms.Label()
         Me.TabControl2 = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label15 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
+        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
         Me.DateTimePicker3 = New System.Windows.Forms.DateTimePicker()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
-        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
         Me.tabInfo = New System.Windows.Forms.TabPage()
         Me.Label22 = New System.Windows.Forms.Label()
         Me.TabPage4 = New System.Windows.Forms.TabPage()
@@ -96,59 +96,14 @@ Partial Class Blodgiver
         Me.TabPage1.Text = "Min Side"
         Me.TabPage1.UseVisualStyleBackColor = True
         '
-        'Label21
+        'Label14
         '
-        Me.Label21.AutoSize = True
-        Me.Label21.Location = New System.Drawing.Point(31, 107)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(78, 13)
-        Me.Label21.TabIndex = 2
-        Me.Label21.Text = "Sist blodgiving:"
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(115, 107)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(61, 13)
-        Me.Label20.TabIndex = 3
-        Me.Label20.Text = "12.08.2016"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(73, 28)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(36, 13)
-        Me.Label19.TabIndex = 36
-        Me.Label19.Text = "Navn:"
-        '
-        'Label18
-        '
-        Me.Label18.AutoSize = True
-        Me.Label18.Location = New System.Drawing.Point(29, 53)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(80, 13)
-        Me.Label18.TabIndex = 38
-        Me.Label18.Text = "Personnummer:"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(115, 28)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(107, 13)
-        Me.Label17.TabIndex = 39
-        Me.Label17.Text = "Per Olav Andreassen"
-        '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.Location = New System.Drawing.Point(115, 53)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(61, 13)
-        Me.Label16.TabIndex = 41
-        Me.Label16.Text = "160590647"
+        Me.Label14.AutoSize = True
+        Me.Label14.Location = New System.Drawing.Point(115, 81)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(34, 13)
+        Me.Label14.TabIndex = 43
+        Me.Label14.Text = "A+, H"
         '
         'Label15
         '
@@ -159,14 +114,59 @@ Partial Class Blodgiver
         Me.Label15.TabIndex = 42
         Me.Label15.Text = "Blodtype:"
         '
-        'Label14
+        'Label16
         '
-        Me.Label14.AutoSize = True
-        Me.Label14.Location = New System.Drawing.Point(115, 81)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(34, 13)
-        Me.Label14.TabIndex = 43
-        Me.Label14.Text = "A+, H"
+        Me.Label16.AutoSize = True
+        Me.Label16.Location = New System.Drawing.Point(115, 53)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(61, 13)
+        Me.Label16.TabIndex = 41
+        Me.Label16.Text = "160590647"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(115, 28)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(107, 13)
+        Me.Label17.TabIndex = 39
+        Me.Label17.Text = "Per Olav Andreassen"
+        '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.Location = New System.Drawing.Point(29, 53)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(80, 13)
+        Me.Label18.TabIndex = 38
+        Me.Label18.Text = "Personnummer:"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(73, 28)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(36, 13)
+        Me.Label19.TabIndex = 36
+        Me.Label19.Text = "Navn:"
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(115, 107)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(61, 13)
+        Me.Label20.TabIndex = 3
+        Me.Label20.Text = "12.08.2016"
+        '
+        'Label21
+        '
+        Me.Label21.AutoSize = True
+        Me.Label21.Location = New System.Drawing.Point(31, 107)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(78, 13)
+        Me.Label21.TabIndex = 2
+        Me.Label21.Text = "Sist blodgiving:"
         '
         'TabPage2
         '
@@ -175,10 +175,17 @@ Partial Class Blodgiver
         Me.TabPage2.Location = New System.Drawing.Point(4, 22)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(368, 432)
+        Me.TabPage2.Size = New System.Drawing.Size(368, 435)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Kalender"
         Me.TabPage2.UseVisualStyleBackColor = True
+        '
+        'DateTimePicker2
+        '
+        Me.DateTimePicker2.Location = New System.Drawing.Point(29, 115)
+        Me.DateTimePicker2.Name = "DateTimePicker2"
+        Me.DateTimePicker2.Size = New System.Drawing.Size(200, 20)
+        Me.DateTimePicker2.TabIndex = 3
         '
         'DateTimePicker3
         '
@@ -191,24 +198,17 @@ Partial Class Blodgiver
         '
         Me.TabPage3.Location = New System.Drawing.Point(4, 22)
         Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Size = New System.Drawing.Size(368, 432)
+        Me.TabPage3.Size = New System.Drawing.Size(368, 435)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Statistikk"
         Me.TabPage3.UseVisualStyleBackColor = True
-        '
-        'DateTimePicker2
-        '
-        Me.DateTimePicker2.Location = New System.Drawing.Point(29, 115)
-        Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(200, 20)
-        Me.DateTimePicker2.TabIndex = 3
         '
         'tabInfo
         '
         Me.tabInfo.Controls.Add(Me.Label22)
         Me.tabInfo.Location = New System.Drawing.Point(4, 22)
         Me.tabInfo.Name = "tabInfo"
-        Me.tabInfo.Size = New System.Drawing.Size(368, 432)
+        Me.tabInfo.Size = New System.Drawing.Size(368, 435)
         Me.tabInfo.TabIndex = 3
         Me.tabInfo.Text = "Info"
         Me.tabInfo.UseVisualStyleBackColor = True
@@ -226,7 +226,7 @@ Partial Class Blodgiver
         '
         Me.TabPage4.Location = New System.Drawing.Point(4, 22)
         Me.TabPage4.Name = "TabPage4"
-        Me.TabPage4.Size = New System.Drawing.Size(368, 432)
+        Me.TabPage4.Size = New System.Drawing.Size(368, 435)
         Me.TabPage4.TabIndex = 4
         Me.TabPage4.Text = "Hjelp"
         Me.TabPage4.UseVisualStyleBackColor = True
@@ -318,6 +318,7 @@ Partial Class Blodgiver
         Me.Controls.Add(Me.Label28)
         Me.Controls.Add(Me.Label29)
         Me.Controls.Add(Me.Button6)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Blodgiver"
         Me.Text = "Blodgiver"
         Me.TabControl2.ResumeLayout(False)

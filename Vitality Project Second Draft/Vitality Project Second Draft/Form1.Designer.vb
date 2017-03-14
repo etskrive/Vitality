@@ -273,6 +273,7 @@ Partial Class Hjem
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.TabControl1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Hjem"
         Me.Text = "Vitality Systems"
         Me.HjelpTab.ResumeLayout(False)
