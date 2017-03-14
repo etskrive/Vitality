@@ -1,0 +1,13 @@
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\bin\Debug\Vitality Project Second Draft.exe.config
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\bin\Debug\Vitality Project Second Draft.exe
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\bin\Debug\Vitality Project Second Draft.pdb
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\bin\Debug\Vitality Project Second Draft.xml
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.vbprojResolveAssemblyReference.cache
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Hjem.resources
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Resources.resources
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.vbproj.GenerateResource.Cache
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.exe
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.xml
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality Project Second Draft.pdb
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Ansatt.resources
+C:\Users\Endre-Portable\Documents\Visual Studio 2015\Projects\Vitality Project Second Draft\Vitality Project Second Draft\obj\Debug\Vitality_Project_Second_Draft.Blodgiver.resources
